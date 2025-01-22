@@ -1,0 +1,18 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+#prvi{
+    background-color: deeppink;
+}
+
+#drugi{
+    background-color: lightskyblue;
+    position: relative;
+    left: 200px;
+}
+
+#treci{
+    background-color: greenyellow;
+}
