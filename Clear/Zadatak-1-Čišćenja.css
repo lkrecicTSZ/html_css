@@ -1,0 +1,13 @@
+#prvi{
+    clear: both;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#drugi{
+    clear: both;
+    height: 250px;
+    width: 250px;
+    border: 2px solid red;
+}
