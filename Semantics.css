@@ -1,0 +1,27 @@
+header{
+    width: 900px;
+    align-content: center;
+}
+
+main{
+    width: 450px;
+    align-content: center;
+}
+
+aside{
+    width: 450px;
+    position: relative;
+    left: 450px;
+    bottom: 380px;
+    align-content: center;
+}
+
+footer{
+    align-content: center;
+    width: 900px;
+}
+
+img{
+    width: 900px;
+    height: auto;
+}
